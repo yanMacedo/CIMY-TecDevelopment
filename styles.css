@@ -10,6 +10,10 @@ body {
     top: 60px;
 }
 
+.Toque_imagem {
+    margin: 0 50px 400px 150px;
+}
+
 .india_img {
     border-radius: 20px;
     position: relative;
@@ -24,7 +28,7 @@ body {
 
 h1 {
     color: white;
-    font-size: 24px;
+    font-size: 66px;
     margin-left: 10px;
     text-align: center;
     margin-top: 250px;
@@ -35,9 +39,12 @@ h1 {
 h2 {
     color: white;
     margin-left: 10px;
-    text-align: center;
+    text-align: center;  
+}
 
-    
+h3 {
+    color: white;
+    margin-top: 180px;
 }
 
 p {
@@ -50,3 +57,5 @@ p {
     position: relative;
    
 }
+
+
