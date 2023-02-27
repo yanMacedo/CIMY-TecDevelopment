@@ -1,6 +1,15 @@
 body {
     background-color: black;
+    color: white;
 }
+
+.logo {
+    width: 250px;
+}
+
+.navegacao {
+    display: flex;   
+} 
 
 .Primary_imagem {
     width: 100%;
